@@ -4,7 +4,7 @@ Kod  zrodlowy aplikacji na platforme Arduino sluzacej do obslugi inteligentnego
 
 Cechy:
 alarm antywlamaniowy, 
-,oprogramowanie ekranu lcd i klawiatury membranowej
-,obsluga czujnikow ruchu, odleglosci, dymu i gazow latwopalnych
-,oprogramowanie oswietlenia z regulowanym natezeniem
-,oprogramowanie sygnalizacji wlamania
+oprogramowanie ekranu lcd i klawiatury membranowej,
+obsluga czujnikow ruchu, odleglosci, dymu i gazow latwopalnych,
+oprogramowanie oswietlenia z regulowanym natezeniem,
+oprogramowanie sygnalizacji wlamania.
